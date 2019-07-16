@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;Goldozi&lt;t2/&gt; Mobile Application</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="mike" changedate="20190714T111437Z" creationid="mike" creationdate="20190714T111437Z">
+        <seg>&lt;t1/&gt;‫گلدوزی‬ &lt;t2/&gt; Mobile Application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LEs&lt;t0/&gt; should be able to&lt;t1/&gt; e&lt;t2/&gt;xplain&lt;t3/&gt; how &lt;t4/&gt;the &lt;t5/&gt;Goldozi&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt;pp &lt;t9/&gt;is&lt;t10/&gt; relevant to their job as lead entrepreneurs</seg>
+      </tuv>
+      <tuv lang="FA-AF" changeid="mike" changedate="20190714T112859Z" creationid="mike" creationdate="20190714T112859Z">
+        <seg>سلام</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
